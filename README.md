@@ -8,3 +8,5 @@ This repository contains the files to complete the simulation.
   Credit: https://snap.stanford.edu/data/cit-HepTh.html
   The data was released as part of research papers in 2003, which includes:
   J. Leskovec, J. Kleinberg and C. Faloutsos. Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2005.
+
+This project was completed in Fall 2025 as the Final Project for Kansas State University MATH 725 - The Mathematics of Data & Networks I
